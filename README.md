@@ -22,3 +22,5 @@ A place to understand ...how to connect, transact, and build with this language 
 ## resources
 
 [wiki](https://wiki.acala.network/)
+
+[get-started](https://wiki.acala.network/learn/get-started)
