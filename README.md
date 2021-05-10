@@ -26,3 +26,5 @@ A place to understand ...how to connect, transact, and build with this language 
 [get-started](https://wiki.acala.network/learn/get-started)
 
 [acala-portal](https://wiki.acala.network/general/acala-portal)
+
+[builders-portal](https://wiki.acala.network/build/builders-portal)
