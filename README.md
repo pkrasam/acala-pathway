@@ -6,6 +6,12 @@ A place to understand ...how to connect, transact, and build with this language 
 
 ## api
 
+Here you'll find the links to the github repo for `polkadot` and `acala` javascript libraries.
+
+[polkadot-api](https://github.com/polkadot-js/api)
+
+[acala-api](https://github.com/AcalaNetwork/acala.js)
+
 ## pathway
 
 ### 01. Connect to a Acala node
