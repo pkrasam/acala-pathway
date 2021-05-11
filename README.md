@@ -22,7 +22,7 @@ node -v
 v14.16.1
 ```
 
-Create a project folder as such:
+Create a project folder, change directory, and initialise as such:
 
 ```
 mkdir acala
@@ -44,6 +44,35 @@ Upon completion of the above commands you'll find a `package.json` with the foll
   "keywords": [],
   "author": "",
   "license": "ISC"
+}
+```
+
+Install packages `dotenv, axios, polkadot, acala`
+
+```
+npm install --save dotenv axios @polkadot/api @acala-network/api@beta
+```
+
+Upon completion of the above commands you'll find a `package.json` with the following entries:
+
+```
+{
+  "name": "acala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@acala-network/api": "^0.7.4-6",
+    "@polkadot/api": "^4.9.2",
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2"
+  }
 }
 ```
 
