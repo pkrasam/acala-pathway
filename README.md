@@ -15,7 +15,6 @@ We will build a set of simple Node applications.
 Hopefully this will become clear(er) as we continue on this pathway.
 Acala has built a library for us to easily interface, build, and connect.
 
-**setup**
 We will need `Node.js` and based on your OS, install the appropriate distribution.
 
 ```
